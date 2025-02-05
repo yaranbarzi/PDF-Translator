@@ -9,5 +9,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/PDF-Translator/blob/main/PDF_Translator.ipynb)
 
 
-## آموزش تصویری در یوتیوب : 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AIgolden)
+## آموزش تصویری در یوتیوب : [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AIgolden)
