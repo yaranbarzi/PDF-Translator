@@ -3,6 +3,7 @@
 
 ## نحوه استفاده
 -- برای اجرای این نوتبوک، روی دکمه زیر کلیک کنید تا در محیط گوگل کولب باز شود
+
 -- برای استفاده از نوتبوک فقط به کلید دسترسی (gemini api key) نیاز دارید که باید از ai google studio دریافت کنید
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yaranbarzi/PDF-Translator/blob/main/PDF_Translator.ipynb)
