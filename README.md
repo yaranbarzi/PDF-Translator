@@ -10,4 +10,4 @@
 
 
 
-## آموزش تصویری در یوتیوب : [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/aGhOoN9Cxbo)
+## آموزش تصویری در یوتیوب : [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_ggFRHATyyE?si=7LfeiZyJ9-SULSZv)
